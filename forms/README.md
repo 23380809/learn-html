@@ -12,10 +12,17 @@
 - Open "form.html" in a browser. Enter username and password and click "Submit".
 
 ## Questions for you to answer
-1. What is the purpose of the _action_ attribute in the _form_ tag?
-2. What is the purpose of the _method_ attribute in the _form_ tag?
+1. What is the purpose of the _action_ attribute in the _form_ tag? 
+specify who to contact when an action happens
+2. What is the purpose of the _method_ attribute in the _form_ tag? 
+To specify what the HTTP method is
 3. What is the purpose of the _name_ attribute in the _input_ tag?
+When sending the request, _name_ attribute decide what the key is
 4. What is the purpose of the _type_ attrbute in the _input_ tag?
+_type_ determines the type of input to be shown on the browser
 5. What is the purpose of the _label_ tag?
+To indicate users what the input field is
 6. What is the purpose of the _required_ attribute?
+To ensure the input is required for sending a request to the server
+
 
